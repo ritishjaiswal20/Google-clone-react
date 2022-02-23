@@ -34,7 +34,7 @@
 .home_body {
   flex: 1;
   display: flex;
-  margin-top: 5%;
+  margin-top: 3%;
   flex-direction: column;
 }
 .home_body > img {
